@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samirnemechaves, use my github linked to my [OSF](https://osf.io/ajvd6/) account to host my research projects.
-- 👀 I’m interested in themes like: consumer psychology,luxury consume, Branding, Bibliometric studies. You can see my publications on my [personal website](https://samirnemechaves.netlify.app/)
+- 👀 I’m interested in themes like: consumer psychology, luxury consume, Branding, Bibliometric studies. You can see my publications on my [personal website](https://samirnemechaves.netlify.app/)
 - 🌱 I’m currently learning SEM and PLS, analysis.
 - 📫 You can contact me through my [personal webside](https://samirnemechaves.netlify.app/).
 
