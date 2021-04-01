@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirnemechaves&show_icons=true&theme=slateorange&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirnemechaves&layout=compact&show_icons=true&theme=slateorange&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samirnemechaves&layout=compact&show_icons=true&theme=slateorange&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samirnemechaves&layout=compact&theme=slateorange&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 samirnemechaves/samirnemechaves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
